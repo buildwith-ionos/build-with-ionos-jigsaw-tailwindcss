@@ -1,0 +1,8 @@
+{
+  "name": "buildwithionos/jigsaw-tailwindcss",
+  "description": "Tailwind CSS starter template with Jigsaw static site generator for build with ionos",
+  "keywords": ["starter", "template", "jigsaw", "static", "site", "generator", "tailwindcss", "buildwithionos"],
+  "require": {
+    "tightenco/jigsaw": "^1.3.29"
+  }
+}
