@@ -24,5 +24,6 @@ mix.options({
   .js('source/_assets/js/main.js', 'js')
   .purgeCss({
     folders: ['source'],
+    enabled: true,
   })
   .version();
